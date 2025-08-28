@@ -19,7 +19,7 @@ This project demonstrates how to build a graphical stopwatch with basic controls
 ---
 
 ## 📷 Preview
-*(Add a screenshot of your stopwatch here once you run it!)*  
+*![Stopwatch Screenshot](screenshot.png)*  
 
 ---
 
@@ -27,4 +27,4 @@ This project demonstrates how to build a graphical stopwatch with basic controls
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gui-stopwatch.git
+   git clone https://github.com/cyb3rasad/Python-stopwatch.git
