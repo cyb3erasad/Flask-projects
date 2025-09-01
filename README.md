@@ -1,7 +1,7 @@
 # ⏱️ GUI Stopwatch (Python + PyQt5)
 
 A simple **Stopwatch Application** built using **Python** and **PyQt5**.  
-This project demonstrates how to build a graphical stopwatch with basic controls.
+This project demonstrates how to build a graphical stopwatch with basic controls..
 
 ---
 
