@@ -8,7 +8,7 @@ This project demonstrates how to build a graphical stopwatch with basic controls
 ## 🚀 Features
 - ▶️ **Start** the stopwatch  
 - ⏸️ **Stop** the stopwatch  
-- 🔄 **Reset** the stopwatch  
+- 🔄 **Reset** the stopwatch  hooker
 
 ---
 
