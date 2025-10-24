@@ -1,1 +1,1 @@
-Python Flask Application.
+Python Flask application with sqlite database.
